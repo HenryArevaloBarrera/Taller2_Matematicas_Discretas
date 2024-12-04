@@ -1,0 +1,60 @@
+C:\Users\andre\source\repos\Secesiones\Secesiones\bin\Debug\Secesiones.exe.config
+C:\Users\andre\source\repos\Secesiones\Secesiones\bin\Debug\Secesiones.exe
+C:\Users\andre\source\repos\Secesiones\Secesiones\bin\Debug\Secesiones.pdb
+C:\Users\andre\source\repos\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Secesiones\Secesiones\obj\Debug\Secesiones.Form1.resources
+C:\Users\andre\source\repos\Secesiones\Secesiones\obj\Debug\Secesiones.Properties.Resources.resources
+C:\Users\andre\source\repos\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Secesiones\Secesiones\obj\Debug\Secesiones.exe
+C:\Users\andre\source\repos\Secesiones\Secesiones\obj\Debug\Secesiones.pdb
+C:\Users\A312050\Downloads\Secesiones\Secesiones\bin\Debug\Secesiones.exe.config
+C:\Users\A312050\Downloads\Secesiones\Secesiones\bin\Debug\Secesiones.exe
+C:\Users\A312050\Downloads\Secesiones\Secesiones\bin\Debug\Secesiones.pdb
+C:\Users\A312050\Downloads\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.AssemblyReference.cache
+C:\Users\A312050\Downloads\Secesiones\Secesiones\obj\Debug\Secesiones.Form1.resources
+C:\Users\A312050\Downloads\Secesiones\Secesiones\obj\Debug\Secesiones.Properties.Resources.resources
+C:\Users\A312050\Downloads\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.GenerateResource.cache
+C:\Users\A312050\Downloads\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.CoreCompileInputs.cache
+C:\Users\A312050\Downloads\Secesiones\Secesiones\obj\Debug\Secesiones.exe
+C:\Users\A312050\Downloads\Secesiones\Secesiones\obj\Debug\Secesiones.pdb
+C:\Users\A329765\Downloads\Secesiones\Secesiones\bin\Debug\Secesiones.exe.config
+C:\Users\A329765\Downloads\Secesiones\Secesiones\bin\Debug\Secesiones.exe
+C:\Users\A329765\Downloads\Secesiones\Secesiones\bin\Debug\Secesiones.pdb
+C:\Users\A329765\Downloads\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.AssemblyReference.cache
+C:\Users\A329765\Downloads\Secesiones\Secesiones\obj\Debug\Secesiones.Form1.resources
+C:\Users\A329765\Downloads\Secesiones\Secesiones\obj\Debug\Secesiones.Properties.Resources.resources
+C:\Users\A329765\Downloads\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.GenerateResource.cache
+C:\Users\A329765\Downloads\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.CoreCompileInputs.cache
+C:\Users\A329765\Downloads\Secesiones\Secesiones\obj\Debug\Secesiones.exe
+C:\Users\A329765\Downloads\Secesiones\Secesiones\obj\Debug\Secesiones.pdb
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones\Secesiones\bin\Debug\Secesiones.exe.config
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones\Secesiones\bin\Debug\Secesiones.exe
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones\Secesiones\bin\Debug\Secesiones.pdb
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.AssemblyReference.cache
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones\Secesiones\obj\Debug\Secesiones.Form1.resources
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones\Secesiones\obj\Debug\Secesiones.Properties.Resources.resources
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.GenerateResource.cache
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.CoreCompileInputs.cache
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones\Secesiones\obj\Debug\Secesiones.exe
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones\Secesiones\obj\Debug\Secesiones.pdb
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones1\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.AssemblyReference.cache
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones1\Secesiones\Secesiones\obj\Debug\Secesiones.Form1.resources
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones1\Secesiones\Secesiones\obj\Debug\Secesiones.Properties.Resources.resources
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones1\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.GenerateResource.cache
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones1\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.CoreCompileInputs.cache
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones1\Secesiones\Secesiones\obj\Debug\Secesiones.exe
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones1\Secesiones\Secesiones\obj\Debug\Secesiones.pdb
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones1\Secesiones\Secesiones\bin\Debug\Secesiones.exe.config
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones1\Secesiones\Secesiones\bin\Debug\Secesiones.exe
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Secesiones1\Secesiones\Secesiones\bin\Debug\Secesiones.pdb
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\bin\Debug\Secesiones.exe.config
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\bin\Debug\Secesiones.exe
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\bin\Debug\Secesiones.pdb
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.AssemblyReference.cache
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\obj\Debug\Secesiones.Form1.resources
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\obj\Debug\Secesiones.Properties.Resources.resources
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.GenerateResource.cache
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\obj\Debug\Secesiones.csproj.CoreCompileInputs.cache
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\obj\Debug\Secesiones.exe
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\obj\Debug\Secesiones.pdb

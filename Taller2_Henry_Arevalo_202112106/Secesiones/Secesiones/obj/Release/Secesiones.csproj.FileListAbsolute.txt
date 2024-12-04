@@ -1,0 +1,10 @@
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\bin\Release\Secesiones.exe.config
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\bin\Release\Secesiones.exe
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\bin\Release\Secesiones.pdb
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\obj\Release\Secesiones.csproj.AssemblyReference.cache
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\obj\Release\Secesiones.Form1.resources
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\obj\Release\Secesiones.Properties.Resources.resources
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\obj\Release\Secesiones.csproj.GenerateResource.cache
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\obj\Release\Secesiones.csproj.CoreCompileInputs.cache
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\obj\Release\Secesiones.exe
+D:\lenovo\Programacion\C#\MatematicasDiscretas\Taller 2\Secesiones\Secesiones\obj\Release\Secesiones.pdb
